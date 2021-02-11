@@ -10,7 +10,7 @@ Come join the dedicated server for this bot! Ask questions, give suggestions, ge
 
 Takes less than 2 minutes to set up. Has various commands and utilities including a keyword logger/notifier, adding custom commands/reactions, and much more.
 
-![](http://i.imgur.com/3H9zpop.gif)
+![CLIP](http://i.imgur.com/3H9zpop.gif)
 
 ## Features
 
